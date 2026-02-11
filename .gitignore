@@ -75,3 +75,6 @@ yarn-error.log
 
 src/Config.ts
 src-consumable
+
+.cursorrules
+.vscode/
