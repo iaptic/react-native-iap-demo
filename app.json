@@ -2,7 +2,7 @@
   "name": "MyReactNativeApp",
   "displayName": "MyReactNativeApp",
   "expo": {
-    "plugins": ["react-native-iap"]
+    "plugins": [["@iaptic/react-native-iap", { "paymentProvider": "Play Store" }]]
   },
   "ios": {
     "bundleIdentifier": "cc.fovea.subsdemo"

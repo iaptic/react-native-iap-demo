@@ -127,7 +127,8 @@ For detailed setup and troubleshooting, visit [iaptic.com](https://www.iaptic.co
 
 The demo is built with:
 
-- [react-native-iap](https://github.com/hyochan/react-native-iap) - Store interactions
+- [react-native-iaptic](https://github.com/iaptic/react-native-iaptic) - Iaptic SDK (subscription UI, entitlements, validation)
+- [@iaptic/react-native-iap](https://github.com/iaptic/react-native-iap) - Store interactions (Iaptic fork, GPBL V9)
 - [iaptic](https://www.iaptic.com) - Receipt validation
 - TypeScript - Type-safe implementation
 
@@ -143,7 +144,7 @@ src/
 ## Documentation
 
 - [iaptic Integration Guide](https://www.iaptic.com/documentation)
-- [React Native IAP Docs](https://react-native-iap.hyo.dev/)
+- [@iaptic/react-native-iap (fork)](https://github.com/iaptic/react-native-iap)
 
 ## Support
 

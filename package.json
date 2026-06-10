@@ -10,12 +10,12 @@
     "test": "jest"
   },
   "dependencies": {
+    "@iaptic/react-native-iap": "^13.0.0",
     "@react-navigation/native": "^7.0.14",
     "@react-navigation/native-stack": "^7.2.0",
     "react": "18.3.1",
     "react-native": "0.77.x",
-    "react-native-iap": "^12.16.0",
-    "react-native-iaptic": "file:../react-native-iaptic",
+    "react-native-iaptic": "^2.1.0",
     "react-native-safe-area-context": "^5.0.0",
     "react-native-screens": "^4.4.0"
   },
